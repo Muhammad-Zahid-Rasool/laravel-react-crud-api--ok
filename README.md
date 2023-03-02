@@ -1,21 +1,41 @@
-# For React.js SPA:
+#### For React.js SPA:
+
+```
 npm install
-Start React Project
+```
+
+#### Start React Project
+
+```
 npm run start
+```
 
-# For Laravel API:
-composer instal
 
-Copy .env file
+#### For Laravel API:
+
+```
+composer install
+```
+
+#### Copy .env file
+
+```
 cp .env.example .env
+```
 
-Set Database Detail
+#### Set Database Detail
+
+```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=
 DB_USERNAME=
 DB_PASSWORD=
+```
 
-Start Laravel Project
+#### Start Laravel Project
+
+```
 php artisan serve
+```
