@@ -1,11 +1,9 @@
-# laravel-react-crud-api--ok
-Testing Full Stack App (Laravel REST API + React.js SPA)
-For React.js SPA:
+# For React.js SPA:
 npm install
 Start React Project
 npm run start
 
-For Laravel API:
+# For Laravel API:
 composer instal
 
 Copy .env file
